@@ -1,4 +1,4 @@
-# vue-firestore
+# vue-firebase-demo
 
 ## Project setup
 ```
